@@ -1,0 +1,24 @@
+git repository
+git://github.com/sdaityari/my_git_project.git
+git config --global credential.helper cache
+git config --global credential.helper "cache --timeout=3600"
+ssh-keygen -t rsa -C "sdaity ari@gmail.com"
+cat ~/.ssh/id_rsa.pub
+git push
+git push remote_raghad z7
+git push remote_name
+git push remote_name barnch_name
+git push remote_name local branch:remote_branch
+git push remote_Raghad local branch:remote_branch
+git fetch remote_name
+git merge origin/master
+git pull
+git pull remote_name
+git pull remote_name branch_name
+git pull remote_name local branch:remote_branch
+CONSTANT = 5
+git mrege friend_branch
+git status
+git add sample.py
+git commit -m "concluded merge with friend_branch"
+
