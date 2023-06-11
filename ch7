@@ -1,0 +1,30 @@
+git lo--oneline 
+git log--all
+git log--all --decorate --online 
+git log -n 2 
+git log --after='2022-12-31' --before='2023-2-19'
+git log --after='2019-3-1'  --before='2033-3-24'
+git log --online --follow my_file
+git log --author='Rahgad'
+git log --online --grep='my_filel' 
+git log --online --grep='test'
+git tag
+git show Atutor_1.4.1
+git tag latest commit
+git tag -a latest commit -m "this is the latest"
+git push origin --tage
+git  push origin Atutor_1.4.1
+git reflog
+git fsck --lost-found
+git mrrge 2615d42
+git rebase master
+git merge --rebase master
+git pull --rebase origin master
+git config --global core.editor 'nano'
+git stash 
+git stash list
+git add -p
+git status
+git pr create 
+gh pr  create
+git issue status
