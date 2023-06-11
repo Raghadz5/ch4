@@ -1,0 +1,31 @@
+git add
+git rm
+git rm --cached mistake_file
+git rm --cached
+git rm --cached my_filel
+git "something" >mistake_file
+git add mistake_file
+git status
+git rm --cachad mistake_file
+git status
+git reset HEAD myfile2
+git status
+git add myfile2
+git status
+git checkout myfile2
+git status
+git rese --soft HEAD~1
+git status
+git revert HEAD~1
+git log --oneline
+git commit --amend -m "New Message"
+git log --oneline
+git revert HEAD~1
+git push origin master
+git reset --hard HEAD-2
+git push -f origin master 
+git blame
+git bisect
+git show 419c6ec
+
+
